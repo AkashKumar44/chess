@@ -1487,6 +1487,8 @@
 			e.preventDefault();
 			$('#login-form').modal('show').addClass('center').find('input').first().focus();
 		});
+
+		
 		////**LOGIN FORM**/////
 		$(".contact-form-btn").on('click', function (e) {
 			e.preventDefault();
