@@ -19998,6 +19998,7 @@ a img.aligncenter {
     padding-right: 0;
   }
 }
+
 @media (min-width: 1200px) {
   .top-nav {
     align-items: center;
