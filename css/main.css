@@ -8250,6 +8250,7 @@ body.boxed {
     flex-direction: column;
   }
 }
+
 .side-item .item-media {
   flex-shrink: 0;
 }
@@ -16001,7 +16002,7 @@ h3.small {
 }
 .shortcode-quote.owl-carousel.quote-layout-1 .owl-nav .owl-prev,
 .shortcode-quote.owl-carousel.quote-layout-1 .owl-nav .owl-next {
-  background-color: #fff;
+  background-color: black;
   height: 20px;
   line-height: 40px;
   -webkit-mask: url(../img/arrow-left.png) no-repeat center left;
