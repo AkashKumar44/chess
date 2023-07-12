@@ -1489,7 +1489,7 @@
 		});
 
 		
-		////**LOGIN FORM**/////
+		////**LOGIN Contact FORM**/////
 		$(".contact-form-btn").on('click', function (e) {
 			e.preventDefault();
 			$('#contact-form').modal('show').addClass('center').find('input').first().focus();
