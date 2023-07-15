@@ -1894,7 +1894,6 @@
 					}
 				}
 			});
-
 		//color filter
 		$(".color-filters").find("a[data-background-color]").each(function () {
 			$(this).css({"background-color": $(this).data("background-color")});
