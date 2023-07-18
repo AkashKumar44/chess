@@ -16502,7 +16502,7 @@ h3.small {
 .shortcode-team {
 }
 .shortcode-team .item-team.content-absolute .item-content {
-  background-color: rgba(231, 201, 0, 0.8);
+  background-color: #2cb2f4;
 }
 .shortcode-team .item-team.content-absolute .item-content h6 {
   margin-bottom: 0.7em;
@@ -16545,7 +16545,7 @@ h3.small {
 .shortcode-gallery {
 }
 .shortcode-gallery .item-gallery.content-absolute .item-content {
-  background-color: rgba(231, 201, 0, 0.8);
+  background-color: #2cb2f4;
 }
 .shortcode-gallery .item-gallery.content-absolute .item-content h6 {
   margin-bottom: 0.7em;
