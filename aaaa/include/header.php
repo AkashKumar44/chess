@@ -6,7 +6,6 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="format-detection" content="telephone=no">
-
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/animations.css">
@@ -164,8 +163,8 @@
               <div class="row align-items-center">
                 <div class="col-xl-2 col-lg-3 col-md-7 col-8">
                   <a href="index.html" class="logo">
-                    <h4 class="text-white">Che <span class="text-warning">s</span>s </h4>
-                    <!-- <img src="img/logo.png" alt=""> -->
+                    <!-- <h4 class="text-white">Che <span class="text-warning">s</span>s </h4> -->
+                    <img class="img-fluid" src="img/logo02.png" alt="logo">
                   </a>
                 </div>
                 <div class="col-xl-10 col-lg-9 col-md-5 col-1">
