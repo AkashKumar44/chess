@@ -2,7 +2,7 @@
   <div class="container-fluid">
     <div class="row justify-content-center align-items-center">
       <div class="col-xl-2 col-12 text-xl-left text-center  animate" data-animation="fadeInUp">
-        <a href="index.html" class="logo">
+        <a href="index.php" class="logo">
           <!-- <img src="img/logo.png" alt=""> -->
           <h4 class="text-white">Che <span class="text-warning">s</span>s </h4>
         </a>
@@ -55,7 +55,7 @@
         </div>
       </div>
       <div class="col-md-12 text-center">
-        <p>All Rights Reserved by <a href="index.html">Chess</a> 2023 | <span>Designed & Developed by <a href="https://shatbhuja.com/">shatbhuja</a>
+        <p>All Rights Reserved by <a href="index.php">Chess</a> 2023 | <span>Designed & Developed by <a href="https://shatbhuja.com/">shatbhuja</a>
             <a class="d-none" href="https://infinitycoder.in">infinitycoder</a>
           </span>
         </p>
