@@ -108,98 +108,136 @@
           </div>
           <!-- eof flexslider -->
         </section>
-        <!-- Start Section Testimonials -->
-        <section class=" s-py-lg-130 s-py-md-90 s-py-60 with-particles">
-          <div id="testimonials" class="particles-js"></div>
+           <!-- Start Section Testimonials -->
+           <section class="ds s-py-xl-150 s-py-lg-130 s-py-md-90 s-py-60 with-particles">
+          <div id="testimonials" class="particles-js">
+            <canvas class="particles-js-canvas-el" width="1349" height="675" style="width: 100%; height: 100%;"></canvas>
+          </div>
           <div class="container">
             <div class="row">
               <div class="col-12 col-xl-10 offset-xl-1">
-                <!-- <p class="special-heading text-justify color-main sub-title"><span class="text-uppercase">
-									testimonial
-								</span></p> -->
-                <h2 class="special-heading text-justify">
-                  <span class="text-capitalize "> Upcoming <span class="color-main">Events</span>
-                  </span>
+                <p class="special-heading text-center color-main sub-title">
+                  <span class="text-uppercase"> testimonial </span>
+                </p>
+                <h2 class="special-heading text-center">
+                  <span class="text-capitalize "> what <span class="color-main">people</span> say </span>
                 </h2>
+                <p class="special-heading text-center color-darkgrey">
+                  <span> We are dedicated to broadening and developing chess as art, recreation, and as a significant element of culture in Northern California. </span>
+                </p>
                 <div class="fw-divider-space divider-30 divider-lg-60"></div>
-                <div class="owl-carousel shortcode-quote quote-layout-1" data-center="false" data-autoplay="false" data-nav="true" data-margin="30" data-loop="true" data-responsive-lg="1" data-responsive-md="2" data-responsive-sm="2" data-responsive-xs="1">
-                  <div class="side-item box-shadow ls item-quote content-padding ">
-                    <div class="item-media">
-                      <img src="images/gallery/rectangle/02.jpg" alt="img">
-                    </div>
-                    <div class="item-content">
-                      <blockquote>
-                        <footer class="entry-footer py-2">
-                          <div class="entry-meta bg-dark px-4 p-2 " style="    border-radius: 40px;">
-                            <span class="entry-date h4">
-                              <i class="far fa-clock"></i>
-                              <a class="text-light" href="#"> 24 Dec 2023 </a>
-                            </span>
+                <div class="owl-carousel shortcode-quote quote-layout-1 owl-loaded owl-drag owl-theme" data-center="false" data-autoplay="false" data-nav="true" data-margin="30" data-loop="true" data-responsive-lg="1" data-responsive-md="2" data-responsive-sm="2" data-responsive-xs="1">
+                  <div class="owl-stage-outer">
+                    <div class="owl-stage" style="transform: translate3d(-2000px, 0px, 0px); transition: all 0s ease 0s; width: 7000px;">
+                      <div class="owl-item cloned" style="width: 970px; margin-right: 30px;">
+                        <div class="side-item box-shadow ls item-quote content-padding text-center" data-index="1">
+                          <div class="item-media">
+                            <img src="images/team/testimonial1.jpg" alt="img">
                           </div>
-                        </footer>
-                        <p class="px-0"> Kids Chess Club is a non-profit Company founded.kids Chess Club is a non-profit Company founded. </p>
-                        <footer class=" py-2">
-                          <div class="entry-meta">
-                            <span class="entry-date h6">
-                              <i class="far fa-map"></i>
-                              <a href="blog-left.html"> The co-founder of ChessBase and the brain behind the ChessBase </a>
-                            </span>
+                          <div class="item-content">
+                            <blockquote>
+                              <p> The co-founder of ChessBase and the brain behind the ChessBase software Matthias Wullenweber tells us all about the new. </p>
+                            </blockquote>
+                            <h6> Eva L. Donley </h6>
+                            <span class="small-text"> Chess Teacher </span>
                           </div>
-                        </footer>
-                      </blockquote>
+                        </div>
+                      </div>
+                      <div class="owl-item cloned" style="width: 970px; margin-right: 30px;">
+                        <div class="side-item box-shadow ls item-quote content-padding text-center" data-index="2">
+                          <div class="item-media">
+                            <img src="images/team/testimonial1.jpg" alt="img">
+                          </div>
+                          <div class="item-content">
+                            <blockquote>
+                              <p> The co-founder of ChessBase and the brain behind the ChessBase software Matthias Wullenweber tells us all about the new. </p>
+                            </blockquote>
+                            <h6> Eva L. Donley </h6>
+                            <span class="small-text"> Chess Teacher </span>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="owl-item active" style="width: 970px; margin-right: 30px;">
+                        <div class="side-item box-shadow ls item-quote content-padding text-center" data-index="0">
+                          <div class="item-media">
+                            <img src="images/team/testimonial1.jpg" alt="img">
+                          </div>
+                          <div class="item-content">
+                            <blockquote>
+                              <p> The co-founder of ChessBase and the brain behind the ChessBase software Matthias Wullenweber tells us all about the new. </p>
+                            </blockquote>
+                            <h6> Eva L. Donley </h6>
+                            <span class="small-text"> Chess Teacher </span>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="owl-item" style="width: 970px; margin-right: 30px;">
+                        <div class="side-item box-shadow ls item-quote content-padding text-center" data-index="1">
+                          <div class="item-media">
+                            <img src="images/team/testimonial1.jpg" alt="img">
+                          </div>
+                          <div class="item-content">
+                            <blockquote>
+                              <p> The co-founder of ChessBase and the brain behind the ChessBase software Matthias Wullenweber tells us all about the new. </p>
+                            </blockquote>
+                            <h6> Eva L. Donley </h6>
+                            <span class="small-text"> Chess Teacher </span>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="owl-item" style="width: 970px; margin-right: 30px;">
+                        <div class="side-item box-shadow ls item-quote content-padding text-center" data-index="2">
+                          <div class="item-media">
+                            <img src="images/team/testimonial1.jpg" alt="img">
+                          </div>
+                          <div class="item-content">
+                            <blockquote>
+                              <p> The co-founder of ChessBase and the brain behind the ChessBase software Matthias Wullenweber tells us all about the new. </p>
+                            </blockquote>
+                            <h6> Eva L. Donley </h6>
+                            <span class="small-text"> Chess Teacher </span>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="owl-item cloned" style="width: 970px; margin-right: 30px;">
+                        <div class="side-item box-shadow ls item-quote content-padding text-center" data-index="0">
+                          <div class="item-media">
+                            <img src="images/team/testimonial1.jpg" alt="img">
+                          </div>
+                          <div class="item-content">
+                            <blockquote>
+                              <p> The co-founder of ChessBase and the brain behind the ChessBase software Matthias Wullenweber tells us all about the new. </p>
+                            </blockquote>
+                            <h6> Eva L. Donley </h6>
+                            <span class="small-text"> Chess Teacher </span>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="owl-item cloned" style="width: 970px; margin-right: 30px;">
+                        <div class="side-item box-shadow ls item-quote content-padding text-center" data-index="1">
+                          <div class="item-media">
+                            <img src="images/team/testimonial1.jpg" alt="img">
+                          </div>
+                          <div class="item-content">
+                            <blockquote>
+                              <p> The co-founder of ChessBase and the brain behind the ChessBase software Matthias Wullenweber tells us all about the new. </p>
+                            </blockquote>
+                            <h6> Eva L. Donley </h6>
+                            <span class="small-text"> Chess Teacher </span>
+                          </div>
+                        </div>
+                      </div>
                     </div>
                   </div>
-                  <div class="side-item box-shadow ls item-quote content-padding ">
-                    <div class="item-media">
-                      <img src="images/gallery/rectangle/01.jpg" alt="img">
+                  <div class="owl-nav">
+                    <div class="owl-prev">
+                      <i class="fa fa-chevron-left"></i>
                     </div>
-                    <div class="item-content">
-                      <blockquote>
-                        <footer class="entry-footer py-2">
-                          <div class="entry-meta bg-dark px-4 p-2 " style="    border-radius: 40px;">
-                            <span class="entry-date h4">
-                              <i class="far fa-clock"></i>
-                              <a class="text-light" href="#"> 24 Dec 2023 </span>
-                          </div>
-                        </footer>
-                        <p class="px-0"> Kids Chess Club is a non-profit Company founded.kids Chess Club is a non-profit Company founded. </p>
-                        <footer class=" py-2">
-                          <div class="entry-meta">
-                            <span class="entry-date h6">
-                              <i class="far fa-map"></i>
-                              <a href="blog-left.html"> The co-founder of ChessBase and the brain behind the ChessBase </a>
-                            </span>
-                          </div>
-                        </footer>
-                      </blockquote>
+                    <div class="owl-next">
+                      <i class="fa fa-chevron-right"></i>
                     </div>
                   </div>
-                  <div class="side-item box-shadow ls item-quote content-padding ">
-                    <div class="item-media">
-                      <img src="images/gallery/rectangle/03.jpg" alt="img">
-                    </div>
-                    <div class="item-content">
-                      <blockquote>
-                        <footer class="entry-footer py-2">
-                          <div class="entry-meta bg-dark px-4 p-2 " style="    border-radius: 40px;">
-                            <span class="entry-date h4">
-                              <i class="far fa-clock"></i>
-                              <a class="text-light" href="#"> 24 Dec 2023 </a>
-                            </span>
-                          </div>
-                        </footer>
-                        <p class="px-0"> Kids Chess Club is a non-profit Company founded.kids Chess Club is a non-profit Company founded. </p>
-                        <footer class=" py-2">
-                          <div class="entry-meta">
-                            <span class="entry-date h6">
-                              <i class="far fa-map"></i>
-                              <a href="blog-left.html"> The co-founder of ChessBase and the brain behind the ChessBase </a>
-                            </span>
-                          </div>
-                        </footer>
-                      </blockquote>
-                    </div>
-                  </div>
+                  <div class="owl-dots disabled"></div>
                 </div>
               </div>
             </div>
