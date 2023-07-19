@@ -132,7 +132,7 @@
       <div id="box_wrapper">
         <!-- template sections -->
         <!--topline section visible only on small screens|-->
-        <section class="page_topline ds ms c-gutter-0 s-py-15 s-borderbottom  d-xl-none">
+        <section class="page_topline c-gutter-0 s-py-15 s-borderbottom  d-xl-none">
           <div class="container-fluid">
             <div class="row align-items-center">
               <div class="col-6 text-left">
@@ -159,10 +159,10 @@
         <div class="header_absolute ">
           <!-- header with two Bootstrap columns - left for logo and right for navigation -->
           <header class="page_header ds ms bg-transparent justify-nav-center s-overlay s-py-10 ">
-            <div class="container-fluid">
+            <div class="container">
               <div class="row align-items-center">
                 <div class="col-xl-2 col-lg-3 col-md-7 col-8">
-                  <a href="index.html" class="logo">
+                  <a href="index.php" class="logo">
                     <!-- <h4 class="text-white">Che <span class="text-warning">s</span>s </h4> -->
                     <img class="img-fluid" src="img/logo02.png" alt="logo">
                   </a>
@@ -173,7 +173,7 @@
                     <nav class="top-nav justify-nav-center">
                       <ul class="nav sf-menu">
                         <li>
-                          <a href="index.html">Home</a>
+                          <a href="index.php">Home</a>
                         </li>
                         <li>
                           <a href="about.html">About</a>
