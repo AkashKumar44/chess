@@ -158,7 +158,7 @@
         </section>
         <div class="header_absolute ">
           <!-- header with two Bootstrap columns - left for logo and right for navigation -->
-          <header class="page_header ds ms bg-transparent justify-nav-center s-overlay s-py-10 ">
+          <header class="page_header ds ms bg-transparent justify-nav-center s-overlay s-py-10 " style="background-color: #fbfbfba6 !important;">
             <div class="container">
               <div class="row align-items-center">
                 <div class="col-xl-2 col-lg-3 col-md-7 col-8">
