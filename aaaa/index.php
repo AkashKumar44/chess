@@ -11,9 +11,9 @@
                            <div class="col-12 text-center text-sm-left">
                                <div class="intro_layers_wrapper">
                                    <div class="intro_layers d-flex flex-column flex-md-row align-items-md-center">
-                                       <div class="intro_layer" data-animation="fadeIn">
+                                       <!-- <div class="intro_layer" data-animation="fadeIn">
                                            <img src="images/chess.png" alt="">
-                                       </div>
+                                       </div> -->
                                        <div class="intro_layer" data-animation="fadeInLeft" data-delay="150">
                                            <h2 class="text-uppercase thin">academic <span class="color-main text-capitalize bold">chess</span>
                                            </h2>
@@ -70,9 +70,9 @@
                            <div class="col-12 text-center text-sm-left">
                                <div class="intro_layers_wrapper">
                                    <div class="intro_layers d-flex flex-column flex-md-row align-items-md-center">
-                                       <div class="intro_layer" data-animation="fadeIn">
+                                       <!-- <div class="intro_layer" data-animation="fadeIn">
                                            <img src="images/chess2.png" alt="">
-                                       </div>
+                                       </div> -->
                                        <div class="intro_layer" data-animation="fadeInLeft" data-delay="150">
                                            <p class="special-heading color-main sub-title">
                                                <span class="text-uppercase"> welcome </span>
@@ -760,7 +760,11 @@
    <!-- Start Section Partners -->
    <section class="ls ms s-py-lg-100 s-py-md-90 s-py-60">
        <div class="container-fluid">
+       <h4 class=" text-center s-py-30">
+                    <span class="text-capitalize "> Our <span class="color-main">Sponsors</span></span>
+                </h4>
            <div class="row">
+               
                <div class="col-12">
                    <div class="owl-carousel" data-center="false" data-autoplay="true" data-margin="20" data-loop="true" data-responsive-lg="8" data-responsive-md="4" data-responsive-sm="3" data-responsive-xs="2">
                        <a class="text-center d-block" href="#">
