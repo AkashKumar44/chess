@@ -176,16 +176,16 @@
                           <a href="index.php">Home</a>
                         </li>
                         <li>
-                          <a href="about.html">About</a>
+                          <a href="about.php">About</a>
                         </li>
                         <li>
-                          <a href="gallery.html">Gallery</a>
+                          <a href="gallery.php">Gallery</a>
                         </li>
                         <li>
                           <a href=".html">Services</a>
                         </li>
                         <li>
-                          <a href="contact.html">Contact</a>
+                          <a href="contact.php">Contact</a>
                         </li>
                         <!-- <li><a href="#">Features</a><div class="mega-menu"><ul class="mega-menu-row"><li class="mega-menu-col"><a href="#">Headers</a><ul><li><a href="header1.html">Header Type 1</a></li><li><a href="header2.html">Header Type 2</a></li><li><a href="header3.html">Header Type 3</a></li><li><a href="header4.html">Header Type 4</a></li><li><a href="header5.html">Header Type 5</a></li><li><a href="header6.html">Header Type 6</a></li></ul></li><li class="mega-menu-col"><a href="#">Side Menus</a><ul><li><a href="header-side.html">Push Left</a></li><li><a href="header-side-right.html">Push Right</a></li><li><a href="header-side-slide.html">Slide Left</a></li><li><a href="header-side-slide-right.html">Slide Right</a></li><li><a href="header-side-sticked.html">Sticked Left</a></li><li><a href="header-side-sticked-right.html">Sticked Right</a></li></ul></li><li class="mega-menu-col"><a href="title1.html">Title Sections</a><ul><li><a href="title1.html">Title section 1</a></li><li><a href="title2.html">Title section 2</a></li><li><a href="title3.html">Title section 3</a></li><li><a href="title4.html">Title section 4</a></li><li><a href="title5.html">Title section 5</a></li><li><a href="title6.html">Title section 6</a></li></ul></li><li class="mega-menu-col"><a href="footer1.html#footer">Footers</a><ul><li><a href="footer1.html#footer">Footer Type 1</a></li><li><a href="footer2.html#footer">Footer Type 2</a></li><li><a href="footer3.html#footer">Footer Type 3</a></li><li><a href="footer4.html#footer">Footer Type 4</a></li><li><a href="footer5.html#footer">Footer Type 5</a></li><li><a href="footer6.html#footer">Footer Type 6</a></li></ul></li><li class="mega-menu-col"><a href="copyright1.html#copyright">Copyright</a><ul><li><a href="copyright1.html#copyright">Copyright 1</a></li><li><a href="copyright2.html#copyright">Copyright 2</a></li><li><a href="copyright3.html#copyright">Copyright 3</a></li><li><a href="copyright4.html#copyright">Copyright 4</a></li><li><a href="copyright5.html#copyright">Copyright 5</a></li><li><a href="copyright6.html#copyright">Copyright 6</a></li></ul></li></ul></div></li> -->
                         <!-- eof features -->
