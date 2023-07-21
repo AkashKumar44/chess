@@ -64,6 +64,9 @@
   </div>
 </section>
 </div>
-<!-- eof #box_wrapper -->undefined</div>undefined
-<!-- eof #canvas -->undefined<script src="js/compressed.js"></script>undefined<script src="js/main.js"></script>undefined
-<!-- <script src="js/switcher.js"></script> -->undefined</body>undefined</html>
+<!-- </div> -->
+<script src="js/compressed.js">
+
+</script><script src="js/main.js"></script>
+
+<!-- <script src="js/switcher.js"></script> --></body></html>
