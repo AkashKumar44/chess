@@ -6,13 +6,11 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="format-detection" content="telephone=no">
-    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/animations.css">
     <link rel="stylesheet" href="css/font-awesome5.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/main.css" class="color-switcher-link">
-    <!-- <link rel="stylesheet" href="css/shop.css" class="color-switcher-link"> -->
     <script src="js/vendor/modernizr-2.6.2.min.js"></script>
   </head>
   <body>
@@ -130,8 +128,6 @@
     <!-- wrappers for visual page editor and boxed version of template -->
     <div id="canvas">
       <div id="box_wrapper">
-        <!-- template sections -->
-        <!--topline section visible only on small screens|-->
         <section class="page_topline c-gutter-0 s-py-15 s-borderbottom  d-xl-none">
           <div class="container-fluid">
             <div class="row align-items-center">
@@ -147,8 +143,7 @@
                       <i class="far fa-envelope"></i>
                     </a>
                   </li>
-                  <!-- <li><div class="dropdown"><a href="#" class="dropdown-toggle" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-search"></i></a><div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton"><div class="widget widget_search"><form role="search" method="get" class="search-form" action="https://html.modernwebtemplates.com/"><label for="search-form-top2"><span class="screen-reader-text">Search for:</span></label><input type="search" id="search-form-top2" class="search-field" placeholder="Search keyword" value="" name="search"><button type="submit" class="search-submit"><span class="screen-reader-text">Search</span></button></form></div></div></div></li> -->
-                </ul>
+                    </ul>
               </div>
               <div class="col-6 text-right">
                 <a href="#" class="btn btn-outline-maincolor">donate</a>
