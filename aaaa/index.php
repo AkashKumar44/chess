@@ -138,6 +138,7 @@
        </div>
    </section>
    <!-- End Section About -->
+
    <!-- Start Section Features -->
    <section class="ds s-py-xl-150 s-py-lg-130 s-pt-md-90 s-pb-md-60 s-pt-60 s-pb-30 c-gutter-0 with-particles">
        <div id="features" class="particles-js"></div>
@@ -599,6 +600,7 @@
        </div>
    </section>
    <!-- End Section Gallery -->
+
    <!-- Start Section Testimonials -->
    <section class="ds s-py-xl-150 s-py-lg-130 s-py-md-90 s-py-60 with-particles">
        <div id="testimonials" class="particles-js"></div>
@@ -658,6 +660,7 @@
        </div>
    </section>
    <!-- End Section Testimonials -->
+
    <!-- Start Section Blog -->
    <section class="ls s-py-xl-150 s-py-lg-130 s-py-md-90 s-py-60">
        <div class="container">
@@ -757,6 +760,7 @@
        </div>
    </section>
    <!-- End Section Blog -->
+   
    <!-- Start Section Partners -->
    <section class="ls ms s-py-lg-100 s-py-md-90 s-py-60">
        <div class="container-fluid">
