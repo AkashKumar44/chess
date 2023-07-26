@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+    <html class="no-js">
+    <head>
+    <title>Chess</title>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="format-detection" content="telephone=no">
+   
    <!-- header start --> 
    <?php include"include/header.php"?> 
 
@@ -127,9 +136,9 @@
                            <div class="fw-divider-space divider-30 divider-sm-0"></div>
                        </div>
                        <div class="text-block with-left-space">
-                           <p class="excerpt"> Kids Chess Club is a non-profit Company founded. </p>
-                           <p> Our goal is to teach children in grades K-12 abstract concepts of planning, analysis and strategy through the game of chess. </p>
-                           <p> Kids will be excited to understand and amazed by the positive experience that chess offers. </p>
+                           <p class="excerpt"> Uttarakhand Sports Federation: Empowering Sporting Excellence</p>
+                           <p> Uttarakhand Sports Federation, a non-profit organization, is dedicated to revolutionizing sports infrastructure and empowering young talents across all disciplines. </p>
+                           <p> Through strategic planning, investments, and collaboration, we create inclusive platforms for athletes to excel. With a focus on promoting grassroots development, we aim to discover and nurture potential from diverse backgrounds, aspiring to make Uttarakhand a beacon of sporting excellence.</p>
                        </div>
                    </div>
                </div>
@@ -138,7 +147,6 @@
        </div>
    </section>
    <!-- End Section About -->
-
    <!-- Start Section Features -->
    <section class="ds s-py-xl-150 s-py-lg-130 s-pt-md-90 s-pb-md-60 s-pt-60 s-pb-30 c-gutter-0 with-particles">
        <div id="features" class="particles-js"></div>
@@ -146,14 +154,14 @@
            <div class="row">
                <div class="col-12 ">
                    <p class="special-heading text-center color-main sub-title">
-                       <span class="text-uppercase"> advantages </span>
+                       <span class="text-uppercase"> comprehensive sporting </span>
                    </p>
                    <h2 class="special-heading text-center">
-                       <span class="text-capitalize "> our <span class="color-main">features</span>
+                       <span class="text-capitalize "> our <span class="color-main">initiatives</span>
                        </span>
                    </h2>
                    <p class="special-heading text-center color-darkgrey">
-                       <span> We are dedicated to broadening and developing chess as art, recreation, and as a significant element of culture in Northern California. </span>
+                       <span> Uttarakhand Sports Federation is not just about competitions; it's about fostering a sense of community and collaboration. </span>
                    </p>
                    <div class="fw-divider-space divider-30 divider-lg-60"></div>
                </div>
@@ -163,8 +171,8 @@
                            <i class="ico ico-chess"></i>
                        </div>
                        <div class="media-body">
-                           <h6> Replay Training </h6>
-                           <p> Replaying games. Since the very beginning of computers </p>
+                           <h6> Sports Infrastructure Enhancement </h6>
+                           <p>We strive to upgrade and modernize existing sports facilities, ensuring they meet international standards and provide a conducive environment for athletes to train and compete.</p>
                        </div>
                    </div>
                </div>
@@ -174,8 +182,8 @@
                            <i class="ico ico-strategy"></i>
                        </div>
                        <div class="media-body">
-                           <h6> Search Technology </h6>
-                           <p> Both have now been enhanced with a long list of samples </p>
+                           <h6> Youth Talent Development </h6>
+                           <p> Our organization actively identifies and nurtures young talents across various sports disciplines, providing them with opportunities, coaching, and support to realize their full potential. </p>
                        </div>
                    </div>
                </div>
@@ -185,8 +193,8 @@
                            <i class="ico ico-strategy-1"></i>
                        </div>
                        <div class="media-body">
-                           <h6> Fashion Index </h6>
-                           <p> A tool to easily create beautiful chess illustrations </p>
+                           <h6> Inclusive Sporting Platforms</h6>
+                           <p> We create inclusive platforms and events that welcome athletes of all backgrounds and abilities, promoting diversity and equal opportunities in sports. </p>
                        </div>
                    </div>
                </div>
@@ -196,8 +204,8 @@
                            <i class="ico ico-strategy-2"></i>
                        </div>
                        <div class="media-body">
-                           <h6> Plan Explorer </h6>
-                           <p> You just enter a search position the program will automatically deduce </p>
+                           <h6> Grassroots Development Programs </h6>
+                           <p> Through our grassroots programs, we engage with local communities to discover and nurture untapped talent, offering training and mentorship to aspiring athletes. </p>
                        </div>
                    </div>
                </div>
@@ -207,8 +215,8 @@
                            <i class="ico ico-strategy-3"></i>
                        </div>
                        <div class="media-body">
-                           <h6> Ray Tracing 3D </h6>
-                           <p> Assume you want to search for a pattern a pawn </p>
+                           <h6> Sports Events and Competitions </h6>
+                           <p> Uttarakhand Sports Federation organizes and hosts sports events and competitions at various levels, encouraging healthy competition and camaraderie among athletes. </p>
                        </div>
                    </div>
                </div>
@@ -218,8 +226,8 @@
                            <i class="ico ico-strategy-4"></i>
                        </div>
                        <div class="media-body">
-                           <h6> Chess Movies </h6>
-                           <p> The statistics function in the game list has been enhanced </p>
+                           <h6> Sports Advocacy and Promotion </h6>
+                           <p> We actively advocate for the importance of sports in society and work to promote a sports culture that fosters well-being, community engagement, and a sense of pride in Uttarakhand's sporting achievements. </p>
                        </div>
                    </div>
                </div>
@@ -238,14 +246,13 @@
                <div class="col-lg-6 text-center text-sm-left">
                    <div class="special-column-center">
                        <p class="special-heading color-main sub-title">
-                           <span class="text-uppercase"> about us </span>
+                           <span class="text-uppercase"> Our Mission </span>
                        </p>
                        <h2 class="special-heading ">
-                           <span class="text-capitalize "> academic chess for kids </span>
+                           <span class="text-capitalize "> Unleashing Sporting Excellence: Empowering a Victorious Community </span>
                        </h2>
                        <div class="fw-divider-space divider-30 divider-lg-55"></div>
-                       <p> Kids Chess Club is a non-profit Company founded by International Chess Master Larry Evans and Tom Callaghan as a way to provide more chess classes to more kids. </p>
-                       <p> Our goal is to teach children in grades K-12 abstract concepts of planning, analysis and strategy through the game of chess. Kids will be excited to understand and amazed by the positive experience that chess offers. </p>
+                       <p> Elevate sports infrastructure, empower athletes, and inspire a vibrant sports culture. We aim to create world-class facilities, ensure equitable access, and foster talent. Together, we envision a healthier, victorious community, recognized for sporting excellence. </p>
                        <div class="fw-divider-space divider-30 divider-lg-60"></div>
                        <div class="many-buttons">
                            <a href="#" class="btn btn-maincolor medium-btn">start now</a>
@@ -267,14 +274,14 @@
                <div class="col-lg-6 text-center text-sm-left">
                    <div class="special-column-center">
                        <p class="special-heading color-main sub-title">
-                           <span class="text-uppercase"> about us </span>
+                           <span class="text-uppercase">Our Vision</span>
                        </p>
                        <h2 class="special-heading ">
-                           <span class="text-capitalize "> academic chess for kids </span>
+                           <span class="text-capitalize ">Revolutionizing Sports Infrastructure: Nurturing Young Talents</span>
                        </h2>
                        <div class="fw-divider-space divider-30 divider-lg-55"></div>
-                       <p> Kids Chess Club is a non-profit Company founded by International Chess Master Larry Evans and Tom Callaghan as a way to provide more chess classes to more kids. </p>
-                       <p> Our goal is to teach children in grades K-12 abstract concepts of planning, analysis and strategy through the game of chess. Kids will be excited to understand and amazed by the positive experience that chess offers. </p>
+                       <!--<p> Kids Chess Club is a non-profit Company founded by International Chess Master Larry Evans and Tom Callaghan as a way to provide more chess classes to more kids. </p>-->
+                       <p>Revolutionize sports infrastructure, nurture diverse young talents. Enhance facilities, create inclusive platforms, promote grassroots development. Vision: Empower the next generation for sporting success.</p>
                        <div class="fw-divider-space divider-30 divider-lg-60"></div>
                        <div class="many-buttons">
                            <a href="#" class="btn btn-maincolor medium-btn">start now</a>
@@ -305,9 +312,9 @@
                            <div class="fw-divider-space divider-30 divider-sm-0"></div>
                        </div>
                        <div class="text-block with-left-space">
-                           <p class="excerpt"> Kids Chess Club is a non-profit Company founded. </p>
-                           <p> Our goal is to teach children in grades K-12 abstract concepts of planning, analysis and strategy through the game of chess. </p>
-                           <p> Kids will be excited to understand and amazed by the positive experience that chess offers. </p>
+                           <p class="excerpt"> Meet Our Dynamic Team: Empowering Sporting Excellence </p>
+                           <p> At Uttarakhand Sports Federation, our team is a collective force of dedicated and passionate individuals who share a common vision: to revolutionize the sports landscape and empower athletes across the state. </p>
+                           <p> With diverse backgrounds and expertise, our team is committed to driving positive change in the sports community and fostering a culture of excellence.</p>
                        </div>
                    </div>
                </div>
@@ -454,9 +461,9 @@
                            <div class="fw-divider-space divider-30 divider-sm-0"></div>
                        </div>
                        <div class="text-block with-left-space">
-                           <p class="excerpt"> Kids Chess Club is a non-profit Company founded. </p>
-                           <p> Our goal is to teach children in grades K-12 abstract concepts of planning, analysis and strategy through the game of chess. </p>
-                           <p> Kids will be excited to understand and amazed by the positive experience that chess offers. </p>
+                           <p class="excerpt"> Gallery of Sporting Moments: Celebrating Excellence and Triumph </p>
+                           <p> Explore our gallery, and be inspired by the passion and determination of these remarkable athletes. </p>
+                           <p> Join us on this exhilarating journey as we celebrate sporting excellence and the boundless possibilities that lie ahead.</p>
                        </div>
                    </div>
                </div>
@@ -600,7 +607,6 @@
        </div>
    </section>
    <!-- End Section Gallery -->
-
    <!-- Start Section Testimonials -->
    <section class="ds s-py-xl-150 s-py-lg-130 s-py-md-90 s-py-60 with-particles">
        <div id="testimonials" class="particles-js"></div>
@@ -660,7 +666,6 @@
        </div>
    </section>
    <!-- End Section Testimonials -->
-
    <!-- Start Section Blog -->
    <section class="ls s-py-xl-150 s-py-lg-130 s-py-md-90 s-py-60">
        <div class="container">
@@ -760,7 +765,6 @@
        </div>
    </section>
    <!-- End Section Blog -->
-   
    <!-- Start Section Partners -->
    <section class="ls ms s-py-lg-100 s-py-md-90 s-py-60">
        <div class="container-fluid">
