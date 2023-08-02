@@ -54,7 +54,6 @@
 										<div class="icon-styled color-main fs-52">
 											<i class="ico ico-email"></i>
 										</div>
-
 										<p>
 											<a href="https://html.modernwebtemplates.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c3aaada5ac83a6bba2aeb3afa6eda0acae">[email&#160;protected]</a><br>
 											<a href="https://html.modernwebtemplates.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4920272f26092c31282439252c672a2624">[email&#160;protected]</a>
@@ -126,7 +125,6 @@
 													<span class="icon-styled color-main">
 														<i class="fa fa-map-marker"></i>
 													</span>
-
 													<span>
 														Sydney, Australia, Liverpool street, 66
 													</span>
@@ -157,7 +155,6 @@
 											</li>
 										</ul>
 									</div>
-
 									<img class="marker-icon" src="images/map_marker_icon.png" alt="">
 								</div>
 							</div>
