@@ -765,12 +765,13 @@
        </div>
    </section>
    <!-- End Section Blog -->
+   
    <!-- Start Section Partners -->
    <section class="ls ms s-py-lg-100 s-py-md-90 s-py-60">
        <div class="container-fluid">
-       <h4 class=" text-center s-py-30">
-                    <span class="text-capitalize "> Our <span class="color-main">Sponsors</span></span>
-                </h4>
+            <h4 class=" text-center s-py-30">
+                <span class="text-capitalize "> Our <span class="color-main">Sponsors</span></span>
+            </h4>
            <div class="row">
                <div class="col-12">
                    <div class="owl-carousel" data-center="false" data-autoplay="true" data-margin="20" data-loop="true" data-responsive-lg="8" data-responsive-md="4" data-responsive-sm="3" data-responsive-xs="2">
@@ -803,4 +804,7 @@
            </div>
        </div>
    </section>
-   <!-- footer start --> <?php include"include/footer.php"?>
+
+   <!-- footer start --> 
+   
+   <?php include"include/footer.php"?>
