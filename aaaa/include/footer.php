@@ -3,7 +3,7 @@
     <div class="row justify-content-center align-items-center">
       <div class="col-xl-2 col-12 text-xl-left text-center  animate" data-animation="fadeInUp">
         <a href="index.php" class="logo">
-        <img class="img-fluid" src="img/logo02.png" alt="logo" width="150" height="150">
+          <img class="img-fluid" src="img/logo02.png" alt="logo" width="150" height="150">
         </a>
       </div>
       <div class="col-xl-8 col-12 text-center animate" data-animation="fadeInUp">
