@@ -523,6 +523,7 @@
                      </span>
                    </div>
                  </div>
+                 
                  <div class="vertical-item cs item-team content-absolute content-show-hover text-center">
                    <div class="item-media">
                      <img src="images/team/rectangle/06.jpg" alt="team">
