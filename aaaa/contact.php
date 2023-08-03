@@ -43,7 +43,6 @@
 										<div class="icon-styled color-main fs-52">
 											<i class="ico ico-placeholder"></i>
 										</div>
-
 										<p>
 											2688 Simpson <br> Avenue Harrisburg
 										</p>
@@ -74,7 +73,6 @@
 										<div class="col-sm-12">
 											<div class="form-group has-placeholder">
 												<label for="name333">Your Name <span class="required">*</span></label>
-
 												<input type="text" aria-required="true" size="30" value="" name="name" id="name333" class="form-control" placeholder="Your Name">
 											</div>
 										</div>
@@ -105,6 +103,7 @@
 
 						</div>
 						<!--.col-* -->
+
 					</div>
 				</div>
 			</section>
@@ -118,7 +117,6 @@
 									<div class="marker-address">sydney, australia, Liverpool street, 66</div>
 									<div class="marker-title">Reach Us</div>
 									<div class="marker-description">
-
 										<ul class="list-unstyled">
 											<li>
 												<span class="icon-inline">
@@ -130,13 +128,11 @@
 													</span>
 												</span>
 											</li>
-
 											<li>
 												<span class="icon-inline">
 													<span class="icon-styled color-main">
 														<i class="fa fa-phone"></i>
 													</span>
-
 													<span>
 														1 (800) 123-45-67
 													</span>
