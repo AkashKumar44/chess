@@ -161,8 +161,5 @@
 			</section>
 
 
-
-
-        
         <!-- footer start -->
       	<?php include"include/footer.php"?>
