@@ -692,6 +692,7 @@
                                        <a href="blog-right.html" rel="category tag"> Academicchess </a>
                                    </span>
                                </div>
+                               
                                <!-- .post-thumbnail -->
                                <div class="item-content">
                                    <header class="entry-header">
