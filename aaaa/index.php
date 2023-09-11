@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+   <!DOCTYPE html>
     <html class="no-js">
     <head>
-    <title>Chess</title>
+    <title>Uksportsfederation - Chess </title>
     <meta charset="utf-8">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -13,6 +13,46 @@
    <section class="page_slider">
         <div class="flexslider" data-nav="false">
            <ul class="slides">
+               <li class="ds slide-3 cover-image s-overlay text-left  ">
+                   <img src="images/slide03.jpg" alt="img">
+                   <div class="container">
+                       <div class="row align-items-center">
+                           <div class="col-12 text-center text-sm-left">
+                               <div class="intro_layers_wrapper">
+                                   <div class="intro_layers d-flex flex-column flex-md-row align-items-md-center">
+                                       <!-- <div class="intro_layer" data-animation="fadeIn">
+                                           <img src="images/chess2.png" alt="">
+                                       </div> -->
+                                       <div class="intro_layer" data-animation="fadeInLeft" data-delay="150">
+                                           <p class="special-heading color-main sub-title">
+                                               <span class="text-uppercase"> welcome </span>
+                                           </p>
+                                           <h1 class="special-heading ">
+                                               <span class="text-capitalize "> Chess <span class="color-main">classes</span> & Tournaments </span>
+                                           </h1>
+                                       </div>
+                                   </div>
+                                   <!-- eof .intro_layers -->
+                                   <div class="intro_layers ">
+                                       <div class="intro_layer" data-animation="fadeIn" data-delay="150">
+                                           <p> We are dedicated to broadening and developing chess as art, recreation, and as a significant element of culture in India. </p>
+                                       </div>
+                                   </div>
+                                   <div class="intro_layers ">
+                                       <div class="many-buttons intro_layer" data-animation="fadeIn" data-delay="150">
+                                           <a href="#" class="btn btn-maincolor medium-btn">start now</a>
+                                           <a href="#" class="btn btn-outline-darkgrey medium-btn">learn more</a>
+                                       </div>
+                                   </div>
+                               </div>
+                               <!-- eof .intro_layers_wrapper -->
+                           </div>
+                           <!-- eof .col-* -->
+                       </div>
+                       <!-- eof .row -->
+                   </div>
+                   <!-- eof .container-fluid -->
+               </li>
                <li class="ds slide-1 cover-image s-overlay text-left  ">
                    <img src="images/slide01.jpg" alt="img">
                    <div class="container">
@@ -24,9 +64,9 @@
                                            <img src="images/chess.png" alt="">
                                        </div> -->
                                        <div class="intro_layer" data-animation="fadeInLeft" data-delay="150">
-                                           <h2 class="text-uppercase thin">academic <span class="color-main text-capitalize bold">chess</span>
+                                           <h2 class="text-uppercase thin">Become A <span class="color-main text-capitalize bold">champion</span>
                                            </h2>
-                                           <p> Best Chess Sets, Tables & Clocks for Sale </p>
+                                           <p> Become a chess champion with UKSF! Enroll in our Chess Classes and dominate the game like never before.  </p>
                                        </div>
                                    </div>
                                    <!-- eof .intro_layers -->
@@ -53,9 +93,9 @@
                                <div class="intro_layers_wrapper">
                                    <div class="intro_layers">
                                        <div class="intro_layer" data-animation="fadeInLeft" data-delay="150">
-                                           <h2 class="text-uppercase thin">academic <span class="color-main text-capitalize bold">chess</span>
+                                           <h2 class="text-uppercase thin">Victory </n><span class="color-main text-capitalize bold">Passion</span>
                                            </h2>
-                                           <p> We are dedicated to broadening and developing chess as art, recreation, and as a significant element of culture in Northern California. </p>
+                                           <p> Join UKSF Chess Classes today and turn your passion into victories. </p>
                                        </div>
                                        <div class="many-buttons intro_layer " data-animation="fadeIn">
                                            <a href="#" class="btn btn-maincolor medium-btn">start now</a>
@@ -72,46 +112,7 @@
                    </div>
                    <!-- eof .container-fluid -->
                </li>
-               <li class="ds slide-3 cover-image s-overlay text-left  ">
-                   <img src="images/slide03.jpg" alt="img">
-                   <div class="container">
-                       <div class="row align-items-center">
-                           <div class="col-12 text-center text-sm-left">
-                               <div class="intro_layers_wrapper">
-                                   <div class="intro_layers d-flex flex-column flex-md-row align-items-md-center">
-                                       <!-- <div class="intro_layer" data-animation="fadeIn">
-                                           <img src="images/chess2.png" alt="">
-                                       </div> -->
-                                       <div class="intro_layer" data-animation="fadeInLeft" data-delay="150">
-                                           <p class="special-heading color-main sub-title">
-                                               <span class="text-uppercase"> welcome </span>
-                                           </p>
-                                           <h2 class="special-heading ">
-                                               <span class="text-capitalize "> academic <span class="color-main">chess</span> for kids </span>
-                                           </h2>
-                                       </div>
-                                   </div>
-                                   <!-- eof .intro_layers -->
-                                   <div class="intro_layers ">
-                                       <div class="intro_layer" data-animation="fadeIn" data-delay="150">
-                                           <p> We are dedicated to broadening and developing chess as art, recreation, and as a significant element of culture in Northern California. </p>
-                                       </div>
-                                   </div>
-                                   <div class="intro_layers ">
-                                       <div class="many-buttons intro_layer" data-animation="fadeIn" data-delay="150">
-                                           <a href="#" class="btn btn-maincolor medium-btn">start now</a>
-                                           <a href="#" class="btn btn-outline-darkgrey medium-btn">learn more</a>
-                                       </div>
-                                   </div>
-                               </div>
-                               <!-- eof .intro_layers_wrapper -->
-                           </div>
-                           <!-- eof .col-* -->
-                       </div>
-                       <!-- eof .row -->
-                   </div>
-                   <!-- eof .container-fluid -->
-               </li>
+               
            </ul>
        </div>
        <!-- eof flexslider -->
@@ -322,15 +323,15 @@
                    <div class="fw-divider-space divider-40 divider-lg-0"></div>
                    <div class="isotope-wrapper shortcode-team team-layout2 isotope row masonry-layout c-gutter-10 c-mb-10">
                        <div class="isotope-item col-xl-4 col-lg-6 col-md-4 col-sm-6 col-xs-12">
-                           <div class="vertical-item cs item-team content-absolute content-show-hover text-center">
+                           <div class="vertical-item cs item-team  text-center">
                                <div class="item-media">
                                    <img src="images/team/01.jpg" alt="team">
                                </div>
                                <div class="item-content">
                                    <h6>
-                                       <a href="team-single.html">Ellen V. Johnson</a>
+                                       <a href="team-single.html">Dr. Mukul Benjwal</a>
                                    </h6>
-                                   <p class="small-text color-darkgrey"> support </p>
+                                   <p class="small-text color-darkgrey"> Treasurer </p>
                                    <span class="social-icons">
                                        <a href="#" class="fab fa-facebook-f" title="facebook"></a>
                                        <a href="#" class="fab fa-telegram-plane" title="telegram"></a>
@@ -341,15 +342,15 @@
                            </div>
                        </div>
                        <div class="isotope-item col-xl-4 col-lg-6 col-md-4 col-sm-6 col-xs-12">
-                           <div class="vertical-item cs item-team content-absolute content-show-hover text-center">
+                           <div class="vertical-item cs item-team  text-center">
                                <div class="item-media">
                                    <img src="images/team/02.jpg" alt="team">
                                </div>
                                <div class="item-content">
                                    <h6>
-                                       <a href="team-single.html">Ellen V. Johnson</a>
+                                       <a href="team-single.html">Mr. Lalit Jindal</a>
                                    </h6>
-                                   <p class="small-text color-darkgrey"> support </p>
+                                   <p class="small-text color-darkgrey"> President </p>
                                    <span class="social-icons">
                                        <a href="#" class="fab fa-facebook-f" title="facebook"></a>
                                        <a href="#" class="fab fa-telegram-plane" title="telegram"></a>
@@ -360,72 +361,15 @@
                            </div>
                        </div>
                        <div class="isotope-item col-xl-4 col-lg-6 col-md-4 col-sm-6 col-xs-12">
-                           <div class="vertical-item cs item-team content-absolute content-show-hover text-center">
+                           <div class="vertical-item cs item-team  text-center">
                                <div class="item-media">
                                    <img src="images/team/03.jpg" alt="team">
                                </div>
                                <div class="item-content">
                                    <h6>
-                                       <a href="team-single.html">Ellen V. Johnson</a>
+                                       <a href="team-single.html">Mr. Rahul Batra</a>
                                    </h6>
-                                   <p class="small-text color-darkgrey"> support </p>
-                                   <span class="social-icons">
-                                       <a href="#" class="fab fa-facebook-f" title="facebook"></a>
-                                       <a href="#" class="fab fa-telegram-plane" title="telegram"></a>
-                                       <a href="#" class="fab fa-instagram" title="instagram"></a>
-                                       <a href="#" class="fab fa-linkedin-in" title="linkedin"></a>
-                                   </span>
-                               </div>
-                           </div>
-                       </div>
-                       <div class="isotope-item col-xl-4 col-lg-6 col-md-4 col-sm-6 col-xs-12">
-                           <div class="vertical-item cs item-team content-absolute content-show-hover text-center">
-                               <div class="item-media">
-                                   <img src="images/team/04.jpg" alt="team">
-                               </div>
-                               <div class="item-content">
-                                   <h6>
-                                       <a href="team-single.html">Ellen V. Johnson</a>
-                                   </h6>
-                                   <p class="small-text color-darkgrey"> support </p>
-                                   <span class="social-icons">
-                                       <a href="#" class="fab fa-facebook-f" title="facebook"></a>
-                                       <a href="#" class="fab fa-telegram-plane" title="telegram"></a>
-                                       <a href="#" class="fab fa-instagram" title="instagram"></a>
-                                       <a href="#" class="fab fa-linkedin-in" title="linkedin"></a>
-                                   </span>
-                               </div>
-                           </div>
-                       </div>
-                       <div class="isotope-item col-xl-4 col-lg-6 col-md-4 col-sm-6 col-xs-12">
-                           <div class="vertical-item cs item-team content-absolute content-show-hover text-center">
-                               <div class="item-media">
-                                   <img src="images/team/05.jpg" alt="team">
-                               </div>
-                               <div class="item-content">
-                                   <h6>
-                                       <a href="team-single.html">Ellen V. Johnson</a>
-                                   </h6>
-                                   <p class="small-text color-darkgrey"> support </p>
-                                   <span class="social-icons">
-                                       <a href="#" class="fab fa-facebook-f" title="facebook"></a>
-                                       <a href="#" class="fab fa-telegram-plane" title="telegram"></a>
-                                       <a href="#" class="fab fa-instagram" title="instagram"></a>
-                                       <a href="#" class="fab fa-linkedin-in" title="linkedin"></a>
-                                   </span>
-                               </div>
-                           </div>
-                       </div>
-                       <div class="isotope-item col-xl-4 col-lg-6 col-md-4 col-sm-6 col-xs-12">
-                           <div class="vertical-item cs item-team content-absolute content-show-hover text-center">
-                               <div class="item-media">
-                                   <img src="images/team/06.jpg" alt="team">
-                               </div>
-                               <div class="item-content">
-                                   <h6>
-                                       <a href="team-single.html">Ellen V. Johnson</a>
-                                   </h6>
-                                   <p class="small-text color-darkgrey"> support </p>
+                                   <p class="small-text color-darkgrey"> Secretary </p>
                                    <span class="social-icons">
                                        <a href="#" class="fab fa-facebook-f" title="facebook"></a>
                                        <a href="#" class="fab fa-telegram-plane" title="telegram"></a>
@@ -461,9 +405,9 @@
                            <div class="fw-divider-space divider-30 divider-sm-0"></div>
                        </div>
                        <div class="text-block with-left-space">
-                           <p class="excerpt"> Gallery of Sporting Moments: Celebrating Excellence and Triumph </p>
-                           <p> Explore our gallery, and be inspired by the passion and determination of these remarkable athletes. </p>
-                           <p> Join us on this exhilarating journey as we celebrate sporting excellence and the boundless possibilities that lie ahead.</p>
+                           <p class="excerpt"> Capturing Moments of Growth and Strategy in the World of Chess </p>
+                           <p> Explore our Gallery to witness the brilliance of young minds immersed in the world of chess. </p>
+                           <p> From intense matches to victorious moments, here's a collection that showcases the dedication, strategy, and growth fostered by UKSF's chess teachings.</p>
                        </div>
                    </div>
                </div>
@@ -478,11 +422,11 @@
                                    </div>
                                    <div class="item-content ">
                                        <h6>
-                                           <a href="gallery-single.html">Elitr sed diam nonumy</a>
+                                           <a href="#">Elitr sed diam nonumy</a>
                                        </h6>
                                        <div class="links-wrap">
                                            <a class="link-zoom photoswipe-link" href="images/gallery/full/01.jpg"></a>
-                                           <a class="link-anchor" href="gallery-single.html"></a>
+                                           <a class="link-anchor" href="#"></a>
                                        </div>
                                    </div>
                                </div>
@@ -494,11 +438,11 @@
                                    </div>
                                    <div class="item-content ">
                                        <h6>
-                                           <a href="gallery-single.html">Elitr sed diam nonumy</a>
+                                           <a href="#">Elitr sed diam nonumy</a>
                                        </h6>
                                        <div class="links-wrap">
                                            <a class="link-zoom photoswipe-link" href="images/gallery/full/02.jpg"></a>
-                                           <a class="link-anchor" href="gallery-single.html"></a>
+                                           <a class="link-anchor" href="#"></a>
                                        </div>
                                    </div>
                                </div>
@@ -510,11 +454,11 @@
                                    </div>
                                    <div class="item-content ">
                                        <h6>
-                                           <a href="gallery-single.html">Elitr sed diam nonumy</a>
+                                           <a href="#">Elitr sed diam nonumy</a>
                                        </h6>
                                        <div class="links-wrap">
                                            <a class="link-zoom photoswipe-link" href="images/gallery/full/03.jpg"></a>
-                                           <a class="link-anchor" href="gallery-single.html"></a>
+                                           <a class="link-anchor" href="#"></a>
                                        </div>
                                    </div>
                                </div>
@@ -526,11 +470,11 @@
                                    </div>
                                    <div class="item-content ">
                                        <h6>
-                                           <a href="gallery-single.html">Elitr sed diam nonumy</a>
+                                           <a href="#">Elitr sed diam nonumy</a>
                                        </h6>
                                        <div class="links-wrap">
                                            <a class="link-zoom photoswipe-link" href="images/gallery/full/04.jpg"></a>
-                                           <a class="link-anchor" href="gallery-single.html"></a>
+                                           <a class="link-anchor" href="#"></a>
                                        </div>
                                    </div>
                                </div>
@@ -542,11 +486,11 @@
                                    </div>
                                    <div class="item-content ">
                                        <h6>
-                                           <a href="gallery-single.html">Elitr sed diam nonumy</a>
+                                           <a href="#">Elitr sed diam nonumy</a>
                                        </h6>
                                        <div class="links-wrap">
                                            <a class="link-zoom photoswipe-link" href="images/gallery/full/05.jpg"></a>
-                                           <a class="link-anchor" href="gallery-single.html"></a>
+                                           <a class="link-anchor" href="#"></a>
                                        </div>
                                    </div>
                                </div>
@@ -558,11 +502,11 @@
                                    </div>
                                    <div class="item-content ">
                                        <h6>
-                                           <a href="gallery-single.html">Elitr sed diam nonumy</a>
+                                           <a href="#">Elitr sed diam nonumy</a>
                                        </h6>
                                        <div class="links-wrap">
                                            <a class="link-zoom photoswipe-link" href="images/gallery/full/06.jpg"></a>
-                                           <a class="link-anchor" href="gallery-single.html"></a>
+                                           <a class="link-anchor" href="#"></a>
                                        </div>
                                    </div>
                                </div>
@@ -574,11 +518,11 @@
                                    </div>
                                    <div class="item-content ">
                                        <h6>
-                                           <a href="gallery-single.html">Elitr sed diam nonumy</a>
+                                           <a href="#">Elitr sed diam nonumy</a>
                                        </h6>
                                        <div class="links-wrap">
                                            <a class="link-zoom photoswipe-link" href="images/gallery/full/07.jpg"></a>
-                                           <a class="link-anchor" href="gallery-single.html"></a>
+                                           <a class="link-anchor" href="#"></a>
                                        </div>
                                    </div>
                                </div>
@@ -590,11 +534,11 @@
                                    </div>
                                    <div class="item-content ">
                                        <h6>
-                                           <a href="gallery-single.html">Elitr sed diam nonumy</a>
+                                           <a href="#">Elitr sed diam nonumy</a>
                                        </h6>
                                        <div class="links-wrap">
                                            <a class="link-zoom photoswipe-link" href="images/gallery/full/08.jpg"></a>
-                                           <a class="link-anchor" href="gallery-single.html"></a>
+                                           <a class="link-anchor" href="#"></a>
                                        </div>
                                    </div>
                                </div>
@@ -620,44 +564,60 @@
                        <span class="text-capitalize "> what <span class="color-main">people</span> say </span>
                    </h2>
                    <p class="special-heading text-center color-darkgrey">
-                       <span> We are dedicated to broadening and developing chess as art, recreation, and as a significant element of culture in Northern California. </span>
+                       <span> We are dedicated to broadening and developing chess as art, recreation, and as a significant element of culture in India. </span>
                    </p>
                    <div class="fw-divider-space divider-30 divider-lg-60"></div>
                    <div class="owl-carousel shortcode-quote quote-layout-1" data-center="false" data-autoplay="false" data-nav="true" data-margin="30" data-loop="true" data-responsive-lg="1" data-responsive-md="2" data-responsive-sm="2" data-responsive-xs="1">
                        <div class="side-item box-shadow ls item-quote content-padding text-center">
                            <div class="item-media">
-                               <img src="images/team/testimonial1.jpg" alt="img">
+                               <!--<img src="images/team/testimonial1.jpg" alt="img">-->
                            </div>
                            <div class="item-content">
                                <blockquote>
-                                   <p> The co-founder of ChessBase and the brain behind the ChessBase software Matthias Wullenweber tells us all about the new. </p>
+                                   <p> UKSF transformed my child's thinking through chess. Impressive teaching methods! </p>
                                </blockquote>
-                               <h6> Eva L. Donley </h6>
-                               <span class="small-text"> Chess Teacher </span>
+                               <h6> Pramod Gupta </h6>
+                               <span class="small-text"> Parent </span>
                            </div>
                        </div>
                        <div class="side-item box-shadow ls item-quote content-padding text-center">
-                           <div class="item-media">
-                               <img src="images/team/testimonial1.jpg" alt="img">
-                           </div>
+                        
                            <div class="item-content">
                                <blockquote>
-                                   <p> The co-founder of ChessBase and the brain behind the ChessBase software Matthias Wullenweber tells us all about the new. </p>
+                                   <p> Brilliant way to sharpen young minds! UKSF's chess program gets a thumbs up. </p>
                                </blockquote>
-                               <h6> Eva L. Donley </h6>
-                               <span class="small-text"> Chess Teacher </span>
+                               <h6> Saumya Yadav </h6>
+                               <span class="small-text"> Parent </span>
                            </div>
                        </div>
                        <div class="side-item box-shadow ls item-quote content-padding text-center">
-                           <div class="item-media">
-                               <img src="images/team/testimonial1.jpg" alt="img">
-                           </div>
+                        
                            <div class="item-content">
                                <blockquote>
-                                   <p> The co-founder of ChessBase and the brain behind the ChessBase software Matthias Wullenweber tells us all about the new. </p>
+                                   <p> My kid's strategic skills bloomed with UKSF. Thank you for nurturing young minds! </p>
                                </blockquote>
-                               <h6> Eva L. Donley </h6>
-                               <span class="small-text"> Chess Teacher </span>
+                               <h6> Prateek Sharma </h6>
+                               <span class="small-text"> Parent </span>
+                           </div>
+                       </div>
+                        <div class="side-item box-shadow ls item-quote content-padding text-center">
+                        
+                           <div class="item-content">
+                               <blockquote>
+                                   <p> Chess education at its finest! UKSF gets 5 stars for their exceptional approach. </p>
+                               </blockquote>
+                               <h6> Mohan Kumar </h6>
+                               <span class="small-text"> Parent </span>
+                           </div>
+                       </div>
+                       <div class="side-item box-shadow ls item-quote content-padding text-center">
+                        
+                           <div class="item-content">
+                               <blockquote>
+                                   <p> Kudos to UKSF for honing critical thinking in kids via chess. Highly recommended! </p>
+                               </blockquote>
+                               <h6> Sarita Singh </h6>
+                               <span class="small-text"> Parent </span>
                            </div>
                        </div>
                    </div>
@@ -692,7 +652,6 @@
                                        <a href="blog-right.html" rel="category tag"> Academicchess </a>
                                    </span>
                                </div>
-                               
                                <!-- .post-thumbnail -->
                                <div class="item-content">
                                    <header class="entry-header">
@@ -766,14 +725,14 @@
        </div>
    </section>
    <!-- End Section Blog -->
-   
    <!-- Start Section Partners -->
    <section class="ls ms s-py-lg-100 s-py-md-90 s-py-60">
        <div class="container-fluid">
-            <h4 class=" text-center s-py-30">
-                <span class="text-capitalize "> Our <span class="color-main">Sponsors</span></span>
-            </h4>
+       <h4 class=" text-center s-py-30">
+                    <span class="text-capitalize "> Our <span class="color-main">Sponsors</span></span>
+                </h4>
            <div class="row">
+               
                <div class="col-12">
                    <div class="owl-carousel" data-center="false" data-autoplay="true" data-margin="20" data-loop="true" data-responsive-lg="8" data-responsive-md="4" data-responsive-sm="3" data-responsive-xs="2">
                        <a class="text-center d-block" href="#">
@@ -788,24 +747,10 @@
                        <a class="text-center d-block" href="#">
                            <img src="images/partners/04.png" alt="img">
                        </a>
-                       <a class="text-center d-block" href="#">
-                           <img src="images/partners/05.png" alt="img">
-                       </a>
-                       <a class="text-center d-block" href="#">
-                           <img src="images/partners/06.png" alt="img">
-                       </a>
-                       <a class="text-center d-block" href="#">
-                           <img src="images/partners/07.png" alt="img">
-                       </a>
-                       <a class="text-center d-block" href="#">
-                           <img src="images/partners/08.png" alt="img">
-                       </a>
+                       
                    </div>
                </div>
            </div>
        </div>
    </section>
-
-   <!-- footer start --> 
-   
-   <?php include"include/footer.php"?>
+   <!-- footer start --> <?php include"include/footer.php"?>
