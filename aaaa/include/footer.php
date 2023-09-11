@@ -3,27 +3,23 @@
     <div class="row justify-content-center align-items-center">
       <div class="col-xl-2 col-12 text-xl-left text-center  animate" data-animation="fadeInUp">
         <a href="index.php" class="logo">
-          <img class="img-fluid" src="img/logo02.png" alt="logo" width="150" height="150">
+        <img class="img-fluid" src="img/logo02.png" alt="logo" width="150" height="150">
         </a>
       </div>
       <div class="col-xl-8 col-12 text-center animate" data-animation="fadeInUp">
         <div class="widget widget_nav_menu">
           <ul class="list-unstyled">
             <li>
-              <a href="about.html">About</a>
+              <a href="about.php">About</a>
             </li>
-            
             <li>
               <a href="courses.html">Services</a>
             </li>
             <li>
-              <a href="blog-right.html">Gallery</a>
+              <a href="gallery.php">Gallery</a>
             </li>
             <li>
-              <a href="shop-right.html">Shop</a>
-            </li>
-            <li>
-              <a href="contact.html">Contact Us</a>
+              <a href="contact.php">Contact Us</a>
             </li>
           </ul>
         </div>
