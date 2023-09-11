@@ -1,16 +1,11 @@
-<!DOCTYPE html>
-<html class="no-js">
-  <head>
-    <title>Chess</title>
-    <meta charset="utf-8">
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="format-detection" content="telephone=no">
+
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/animations.css">
     <link rel="stylesheet" href="css/font-awesome5.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/main.css" class="color-switcher-link">
+    <!-- <link rel="stylesheet" href="css/shop.css" class="color-switcher-link"> -->
     <script src="js/vendor/modernizr-2.6.2.min.js"></script>
   </head>
   <body>
@@ -18,7 +13,6 @@
       <div class="preloader_image"></div>
     </div>
     <!-- search modal -->
-
     <div class="modal" tabindex="-1" role="dialog" aria-labelledby="search_modal" id="search_modal">
       <button type="button" class="close" data-dismiss="modal" aria-label="Close">
         <span aria-hidden="true">&times;</span>
@@ -127,43 +121,45 @@
       </div>
     </div>
     <!-- wrappers for visual page editor and boxed version of template -->
-
     <div id="canvas">
       <div id="box_wrapper">
+        <!-- template sections -->
         <section class="page_topline c-gutter-0 s-py-15 s-borderbottom  d-xl-none">
           <div class="container-fluid">
             <div class="row align-items-center">
               <div class="col-6 text-left">
                 <ul class="top-includes">
                   <li>
-                    <a class="login-form-btn" href="#" data-toggle="modal" data-target="#login-form">
-                      <i class="far fa-user"></i>
-                    </a>
+                   
                   </li>
                   <li>
                     <a class="contact-form-btn" href="#" data-toggle="modal" data-target="#contact-form">
                       <i class="far fa-envelope"></i>
                     </a>
                   </li>
-                    </ul>
+                  <!-- <li><div class="dropdown"><a href="#" class="dropdown-toggle" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-search"></i></a><div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton"><div class="widget widget_search"><form role="search" method="get" class="search-form" action="https://html.modernwebtemplates.com/"><label for="search-form-top2"><span class="screen-reader-text">Search for:</span></label><input type="search" id="search-form-top2" class="search-field" placeholder="Search keyword" value="" name="search"><button type="submit" class="search-submit"><span class="screen-reader-text">Search</span></button></form></div></div></div></li> -->
+                </ul>
               </div>
               <div class="col-6 text-right">
-                <a href="#" class="btn btn-outline-maincolor">donate</a>
+                <a href="#" class="btn btn-outline-maincolor">Donate Now</a>
               </div>
             </div>
           </div>
         </section>
         <div class="header_absolute ">
+          <!-- header with two Bootstrap columns - left for logo and right for navigation -->
           <header class="page_header ds ms bg-transparent justify-nav-center s-overlay s-py-10 " style="background-color: #fbfbfba6 !important;">
             <div class="container">
               <div class="row align-items-center">
                 <div class="col-xl-2 col-lg-3 col-md-7 col-8">
                   <a href="index.php" class="logo">
+                    <!-- <h4 class="text-white">Che <span class="text-warning">s</span>s </h4> -->
                     <img class="img-fluid" src="img/logo02.png" alt="logo">
                   </a>
                 </div>
                 <div class="col-xl-10 col-lg-9 col-md-5 col-1">
                   <div class="nav-wrap">
+                    <!-- main nav start -->
                     <nav class="top-nav justify-nav-center">
                       <ul class="nav sf-menu">
                         <li>
@@ -173,24 +169,25 @@
                           <a href="about.php">About</a>
                         </li>
                         <li>
+                          <a href="tournaments.php">Tournaments</a>
+                        </li>
+                        <li>
                           <a href="gallery.php">Gallery</a>
                         </li>
                         <li>
-                          <a href=".html">Services</a>
+                          <a href="https://blog.uksportsfederation.com/">Blog</a>
                         </li>
                         <li>
                           <a href="contact.php">Contact</a>
                         </li>
+                        
                       </ul>
                     </nav>
-                    <span class=" text-left text-md-right d-none d-xl-block">
-                      <a href="#" class="btn btn-outline-maincolor">donate</a>
-                    </span>
+                    <!-- eof main nav -->
+                  
                     <ul class="top-includes d-none d-xl-block text-right">
                       <li>
-                        <a class="login-form-btn" href="#" data-toggle="modal" data-target="#login-form">
-                          <i class="far fa-user"></i>
-                        </a>
+                          <a href="#" class="btn btn-outline-maincolor" data-toggle="modal" data-target="#login-form">Donate Now</a>
                       </li>
                       <li>
                         <a class="contact-form-btn" href="#" data-toggle="modal" data-target="#contact-form">
@@ -203,8 +200,6 @@
               </div>
             </div>
             <!-- header toggler -->
-          
-            
             <span class="toggle_menu">
               <span></span>
             </span>
