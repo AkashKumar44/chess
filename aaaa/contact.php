@@ -1,3 +1,12 @@
+       <!DOCTYPE html>
+    <html class="no-js">
+    <head>
+    <title>contact</title>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="format-detection" content="telephone=no">     
+     
       <!-- header start -->
       <?php include"include/header.php"?>
 
@@ -43,6 +52,7 @@
 										<div class="icon-styled color-main fs-52">
 											<i class="ico ico-placeholder"></i>
 										</div>
+
 										<p>
 											2688 Simpson <br> Avenue Harrisburg
 										</p>
@@ -53,6 +63,7 @@
 										<div class="icon-styled color-main fs-52">
 											<i class="ico ico-email"></i>
 										</div>
+
 										<p>
 											<a href="https://html.modernwebtemplates.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c3aaada5ac83a6bba2aeb3afa6eda0acae">[email&#160;protected]</a><br>
 											<a href="https://html.modernwebtemplates.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4920272f26092c31282439252c672a2624">[email&#160;protected]</a>
@@ -73,6 +84,7 @@
 										<div class="col-sm-12">
 											<div class="form-group has-placeholder">
 												<label for="name333">Your Name <span class="required">*</span></label>
+
 												<input type="text" aria-required="true" size="30" value="" name="name" id="name333" class="form-control" placeholder="Your Name">
 											</div>
 										</div>
@@ -103,63 +115,13 @@
 
 						</div>
 						<!--.col-* -->
-
-					</div>
-				</div>
-			</section>
-
-			<section class="container-px-0">
-				<div class="container-fluid">
-					<div class="row">
-						<div class="col-lg-12">
-							<div class=" ms page_map" data-draggable="false" data-scrollwheel="false">
-								<div class="marker">
-									<div class="marker-address">sydney, australia, Liverpool street, 66</div>
-									<div class="marker-title">Reach Us</div>
-									<div class="marker-description">
-										<ul class="list-unstyled">
-											<li>
-												<span class="icon-inline">
-													<span class="icon-styled color-main">
-														<i class="fa fa-map-marker"></i>
-													</span>
-													<span>
-														Sydney, Australia, Liverpool street, 66
-													</span>
-												</span>
-											</li>
-											<li>
-												<span class="icon-inline">
-													<span class="icon-styled color-main">
-														<i class="fa fa-phone"></i>
-													</span>
-													<span>
-														1 (800) 123-45-67
-													</span>
-												</span>
-											</li>
-											<li>
-												<span class="icon-inline">
-													<span class="icon-styled color-main">
-														<i class="fa fa-envelope"></i>
-													</span>
-
-													<span>
-														<a href="https://html.modernwebtemplates.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8ce1ede5e0cce9f4ede1fce0e9a2efe3e1">[email&#160;protected]</a>
-													</span>
-												</span>
-											</li>
-										</ul>
-									</div>
-									<img class="marker-icon" src="images/map_marker_icon.png" alt="">
-								</div>
-							</div>
-
-						</div>
 					</div>
 				</div>
 			</section>
 
 
+
+
+        
         <!-- footer start -->
       	<?php include"include/footer.php"?>
